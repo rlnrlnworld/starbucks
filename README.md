@@ -1,7 +1,8 @@
-# ☕ 스타벅스 웹사이트 클론
+# ☕ [스타벅스 웹사이트 클론](https://vercel.live/link/starbucks-tau-beryl.vercel.app?via=deployment-domains-list&p=1)
 
 이 프로젝트는 스타벅스 공식 웹사이트의 랜딩 페이지를 클론하는 예제입니다. <br>
 HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양한 웹 기술을 적용해 보았습니다. <br>
+<br>
 **아래 내용과 함께 완성된 코드를 확인해보세요!**
 
 ## 📑 목차
