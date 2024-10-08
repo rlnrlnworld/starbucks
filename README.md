@@ -44,12 +44,21 @@ HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양�
 ```
 ## 💻 사용 기술
 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GSAP](https://img.shields.io/badge/greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Swiper](https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![YoutubeAPI](https://img.shields.io/badge/youtube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 - **HTML5**: 웹페이지의 구조 설계
 - **CSS3**: 레이아웃, 스타일링, 반응형 디자인, 애니메이션 구현
 - **JavaScript (ES6+)**: 상호작용 및 다양한 기능 구현
 - **GSAP**: 애니메이션 효과
 - **Swiper**: 슬라이드 라이브러리
 - **YouTube API**: 유튜브 영상 제어
+- **Vercel**: 프로젝트 배포 및 호스팅
 
 ## ⚙️ 설치
 
