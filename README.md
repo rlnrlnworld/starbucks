@@ -1,3 +1,6 @@
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0B421A&height=150&section=header" width="100%" /></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/640px-Starbucks_Corporation_Logo_2011.svg.png" width="200px"/></p>
+
 # ☕ [스타벅스 웹사이트 클론](https://vercel.live/link/starbucks-tau-beryl.vercel.app?via=deployment-domains-list&p=1)
 
 이 프로젝트는 스타벅스 공식 웹사이트의 랜딩 페이지를 클론하는 예제입니다. <br>
@@ -62,15 +65,20 @@ HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양�
 
 ## ⚙️ 설치
 
-1. 이 저장소를 클론합니다:
-    ```bash
-    git clone https://github.com/your-username/starbucks-clone.git
-    ```
-
-2. 프로젝트 디렉토리로 이동합니다:
-    ```bash
-    cd starbucks-clone
-    ```
+1. **레포지토리 클론**:
+   ```bash
+   git clone https://github.com/rlnrlnworld/starbucks.git
+   cd starbucks-clone
+2. **패키지 설치**:
+   ```bash
+   npm install
+3. **번들러 설치**:
+   ```bash
+   npm i -D parcel
+4. **개발 서버 실행**:
+   ```bash
+   npm run dev
+5. **브라우저에서 접속**: `http://localhost:1234`에서 애플리케이션 확인 가능
 
 ## 🚀 사용 방법
 
@@ -102,3 +110,5 @@ HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양�
 ## 📄 라이선스
 
 이 프로젝트는 학습 및 연구 목적으로 만들어졌으며, 상업적 목적으로 사용할 수 없습니다.
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0B421A&height=150&section=footer" width="100%" /></p>
