@@ -77,7 +77,7 @@ HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양�
 
 ## 🌐 데모 링크
 
-프로젝트의 라이브 데모를 확인하려면 아래 링크를 클릭하세요:
+프로젝트의 라이브 데모를 확인하려면 아래 링크를 클릭하세요!
 
 👉 [스타벅스 클론 데모](https://vercel.live/link/starbucks-tau-beryl.vercel.app?via=deployment-domains-list&p=1)
 
